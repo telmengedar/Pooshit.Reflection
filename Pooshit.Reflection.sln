@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reflection", "Reflection\Reflection.csproj", "{6024ED4B-F15E-445F-9EB3-7910C90466BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reflection.Tests", "Reflection.Tests\Reflection.Tests.csproj", "{95CE7F6B-5EC3-4E91-9DA6-00FA9EDCAFE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sandbox", "Sandbox\Sandbox.csproj", "{085433ED-A59F-445F-AFD3-9A6B7EDF9537}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6024ED4B-F15E-445F-9EB3-7910C90466BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6024ED4B-F15E-445F-9EB3-7910C90466BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6024ED4B-F15E-445F-9EB3-7910C90466BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6024ED4B-F15E-445F-9EB3-7910C90466BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95CE7F6B-5EC3-4E91-9DA6-00FA9EDCAFE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95CE7F6B-5EC3-4E91-9DA6-00FA9EDCAFE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95CE7F6B-5EC3-4E91-9DA6-00FA9EDCAFE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95CE7F6B-5EC3-4E91-9DA6-00FA9EDCAFE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{085433ED-A59F-445F-AFD3-9A6B7EDF9537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{085433ED-A59F-445F-AFD3-9A6B7EDF9537}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{085433ED-A59F-445F-AFD3-9A6B7EDF9537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{085433ED-A59F-445F-AFD3-9A6B7EDF9537}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
